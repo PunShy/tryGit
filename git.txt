@@ -1,0 +1,25 @@
+
+git stash
+git checkout --track origin/release/v1.356
+
+git checkout release/v1.356
+git stash list
+
+git stash pop
+
+gitk  ==>  開啟git原生GUI工具
+
+git push
+
+git pull --rebase
+
+
+
+
+
+Saved working directory and index state WIP on v1.356_voucherfix: 65142b0b4 修正
+
+
+
+
+
