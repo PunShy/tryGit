@@ -14,7 +14,7 @@ git push
 git pull --rebase
 
 
-
+git checkout -- fileName.txt => 復原變更
 
 
 Saved working directory and index state WIP on v1.356_voucherfix: 65142b0b4 修正
