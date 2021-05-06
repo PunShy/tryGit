@@ -1,0 +1,22 @@
+nmap zso :source C:\Users\mikeweng\Downloads\Git_Play\tryHellow\ws_ideavimrc.txt <CR>
+
+:set rnu
+
+
+
+nnoremap <A-J> a
+imap <A-J> <Esc>
+
+nnoremap <Space> i
+
+
+
+
+
+nmap Z; $a;<Esc>
+imap z; <Esc>$a;
+
+
+
+
+
